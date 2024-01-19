@@ -40,15 +40,10 @@
 
 import React from 'react'
 
-const Home = () => {
+const Home2 = () => {
   return (
-    <div>
-      <h1>Start</h1> 
-      <button className='bg-black text-white'>
-        Get Started
-      </button>
-    </div>
+    <div>Dashboad HomePage</div>
   )
 }
 
-export default Home
+export default Home2

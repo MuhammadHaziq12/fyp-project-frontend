@@ -1,7 +1,7 @@
 import React from "react";
 // import ProductCard from "./productCard";
 // import ProductCard from "./components/productcard/productCard";
-import ProductCard from "../../components/productcard/productCard";
+import ProductCard from "../../ui/dashboard/productcard/ProductCard";
 
 const productsData = [
   {

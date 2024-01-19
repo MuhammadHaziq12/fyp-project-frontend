@@ -43,9 +43,9 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-      <h1>Start</h1> 
+      <h1>Main home</h1> 
       <button className='bg-black text-white'>
-        Get Started
+        click me
       </button>
     </div>
   )
